@@ -3,13 +3,13 @@
 exclude: [".Rproj.user"]
 
 #Step 1: give your study group a name and a short description:
-title: University of Toronto Coders
-description: "We are a group of students and researchers dedicated to learning about and sharing scientific coding techniques and knowledge in an effort to improve scientific research."
+title: Welcome to visit Yue Harriet Huang's 
+description: "sharing Yue Harriet Huang's analytics life"
 
 #Step 2: press the green 'Commit Changes' button at the bottom of this page.
 
 # That's it, your website is all set up!
-# You can see it at https://YourUserName.github.io/studyGroup/
+# You can see it at https://YourUserName.github.io/About/
 # No need to change anything below this line.
 # To make your first event, check out the instructions at https://github.com/mozillascience/studyGroup#how-to-launch-a-new-event
 # Having trouble? Open a new issue at https://github.com/mozillascience/studyGroup/issues and we'll help you out ASAP!
@@ -17,7 +17,7 @@ description: "We are a group of students and researchers dedicated to learning a
 # Optional Configuration
 # None of these things need to be changed - but feel free!
 
-headlineSmall: "Welcome To The U of T Coders Group!"
+headlineSmall: "Welcome to visit Yue Harriet Huang's!"
 headlineMain: "Let's Work Together"
 avatar: "img/logos/logo_icon_dark.png"
 
@@ -28,8 +28,8 @@ avatar: "img/logos/logo_icon_dark.png"
 # 3. set calendar_on: True.
 
 calendar_on: True
-calendar_embed_url: "https://www.google.com/calendar/embed?src=uoftcoders@gmail.com"
-calendar_ical_url: "https://www.google.com/calendar/ical/uoftcoders@gmail.com/public/basic.ics"
+#calendar_embed_url: "https://www.google.com/calendar/embed?src=uoftcoders@gmail.com"
+#calendar_ical_url: "https://www.google.com/calendar/ical/uoftcoders@gmail.com/public/basic.ics"
 
 # ===============================
 # Categories for sorting lessons.

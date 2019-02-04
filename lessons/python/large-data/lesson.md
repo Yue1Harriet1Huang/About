@@ -7,7 +7,7 @@ tags:
   - intermediate
 ---
 
- - **Authors**: 
+ - **Authors**: Yue Harriet Huang
  - **Research field**: Probability and Statistics
  - **Lesson topic**: Use PySpark and SparkSQL to Connect Jupyter Notebook to Remote SQL Server DB
  - **Lesson content URL**: <https://github.com/uoftcoders/studyGroup/tree/gh-pages/lessons/python/large-data>

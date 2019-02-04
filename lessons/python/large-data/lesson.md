@@ -7,7 +7,15 @@ tags:
   - intermediate
 ---
 
- - **Authors**: Wei Zhan
+ - **Authors**: 
+ - **Research field**: Probability and Statistics
+ - **Lesson topic**: Use PySpark and SparkSQL to Connect Jupyter Notebook to Remote SQL Server DB
+ - **Lesson content URL**: <https://github.com/uoftcoders/studyGroup/tree/gh-pages/lessons/python/large-data>
+
+Today I learnt a really cool thing : using PySpark that connects your Jupyter Notebook to execute sql on a SQL database on remote server is so much faster than running SQL directly in the SQL database
+
+
+ - **Authors**: 
  - **Research field**: Immunology
  - **Lesson topic**: Processing gDNA chip results and single cell PCR results; finding shared motifs.
  - **Lesson content URL**: <https://github.com/uoftcoders/studyGroup/tree/gh-pages/lessons/python/large-data>

@@ -3,8 +3,10 @@
   degree: M.Sc., Probability and Statistics
   github: Yue1Harriet1Huang
   interests:
-    Currently Working on: 
-      - Imbalanced dataset classicifaction with the use of fastai/pytorch on GPU
-      - writing a book: Building Blocks for Tackling Your Machine Learning Obstacles
+    Imbalanced dataset classicifaction with the use of fastai/pytorch on GPU
+    
+    writing a book: Building Blocks for Tackling Your Machine Learning Obstacles
+    
     Pastly working on:
-      - Panel data forecasting with Generative Mixed Effects Model
+    
+    - Panel data forecasting with Generative Mixed Effects Model

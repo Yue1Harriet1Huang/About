@@ -1,0 +1,1 @@
+Today I learnt a really cool thing : using PySpark that connects your Jupyter Notebook to execute sql on a SQL database on remote server is so much faster than running SQL directly in the SQL database

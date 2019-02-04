@@ -14,16 +14,20 @@ tags:
 
 Today on 20190204 I learnt a really cool thing : using PySpark that connects your Jupyter Notebook to execute sql on a SQL database on remote server is so much faster than running SQL directly in the SQL database. I ran the whole process in a RMarkdown file in a R bookdown project. 
 
-1. Specify Python Virtual Environment in RMarkdown Code Chunk as
+1. Specify Python Virtual Environment in RMarkdown Code Chunk in R as
 
 ```
 
-`````{r}
+````{r}
 library(reticulate}
-use_python
+use_python("/home/user/anaconda3/envs/env_var/bin/python") # the python version in the virtual environment
+use_virtualenv("/home/user/anaconda3/envs/env_var") # specify directory containing environment
+use_condaenv("env_var") # specify conda environment
 `````
 
 ```
+
+2. Use
 
 
  - **Authors**: Wei Zhang

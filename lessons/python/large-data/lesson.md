@@ -19,6 +19,8 @@ Today on 20190204 I learnt a really cool thing : using PySpark that connects you
 ```
 
 ````{r}
+library(reticulate}
+use_python
 ````
 
 ```

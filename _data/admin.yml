@@ -1,54 +1,11 @@
-- name: Lina Tran
-  position: President
-  degree: PhD, Physiology
+- name: Yue Harriet Huang
+  position: Author
+  degree: M.Sc., Probability and Statistics
   github: linamnt
-  interests:
-    - Python
-    - R
+  Currently Working on:
+    - Python/Fastai/PyTorch
+    - Deep Learning for Imbalanced Data Classification
+  Pastly Working on:
+    - R, Generative Additive Mixed Effects Model
+    - Panel data forecasting
 
-- name: Madeleine Bonsma
-  position: Special Events Coordinator
-  degree: PhD, Physics
-  github: mbonsma
-  interests:
-    - Python
-
-- name: Lindsay Coome
-  position: Marketing and Social Media Coordinator
-  degree: PhD, Psychology
-  github: lcoome
-  interests:
-    - R
-
-- name: Ahmed Hasan
-  position: Course Coordinator
-  degree: PhD, Biology
-  github: aays
-  interests:
-    - R
-    - Python
-
-- name: Sara Mahallati
-  position: Admin
-  degree: PhD, Biomedical Engineering
-  github: SaraMati
-  interests:
-    - MATLAB
-    - LaTeX
-    - Python
-
-- name: Elliott Sales de Andrade
-  position: Technical Admin
-  degree: PhD, Physics
-  github: QuLogic
-  interests:
-    - Fortran
-    - Python
-    - Visualization
-
-- name: Nil Sahin
-  position: Treasurer
-  degree: PhD, Molecular Genetics
-  github: nsahin
-  interests:
-    - Python

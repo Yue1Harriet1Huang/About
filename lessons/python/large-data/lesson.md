@@ -23,7 +23,7 @@ library(reticulate}
 use_python("/home/user/anaconda3/envs/env_var/bin/python") # the python version in the virtual environment
 use_virtualenv("/home/user/anaconda3/envs/env_var") # specify directory containing environment
 use_condaenv("env_var") # specify conda environment
-`````
+
 
 ```
 
